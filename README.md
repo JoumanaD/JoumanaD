@@ -38,26 +38,6 @@
 
 ---
 
-## 💼 Work Experience  
-
-### **Société Générale** | **Software Engineer (Apprenticeship)** 📍Fontenay-sous-Bois, France (July 2023 - September 2024)  
-- Developed and secured HR and marketplace applications while ensuring compliance with banking regulations.  
-- Optimized CI/CD pipelines and performed bug analysis.  
-- Enhanced performance and user experience by adding new functionalities.  
-
-### **NEOMI** | **Full-Stack Developer (Internship)** 📍Paris, France (July 2022 - August 2022)  
-- Built a real estate application to streamline collaboration between financiers and guarantors.  
-- Implemented automated testing and deployment processes.  
-
----
-
-## 🎓 Education  
-
-- **Master’s in Computer Science** | **Sorbonne University** (2022 - 2024)  
-- **Bachelor’s in Computer Science (MIAGE)** | **Grenoble Alpes University** (2018 - 2021)  
-
----
-
 ## 🔨 Notable Projects  
 
 📌 **Click&Collect Android App** — Built with **React Native**  
