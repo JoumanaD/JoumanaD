@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Joumana ELDAKAR  
+# Hi there! 👋 I'm Joumana  
 
 ### 🚀 Software Engineer | Full-Stack Developer  
 
@@ -49,8 +49,7 @@
 
 ![English](https://img.shields.io/badge/English-%2300599C.svg?style=for-the-badge&logo=language&logoColor=white)  
 ![French](https://img.shields.io/badge/French-%2300599C.svg?style=for-the-badge&logo=language&logoColor=white)  
-![Arabic](https://img.shields.io/badge/Arabic-%2300599C.svg?style=for-the-badge&logo=language&logoColor=white)  
-![Spanish](https://img.shields.io/badge/Spanish-%2300599C.svg?style=for-the-badge&logo=language&logoColor=white)  
+![Arabic](https://img.shields.io/badge/Arabic-%2300599C.svg?style=for-the-badge&logo=language&logoColor=white)   
 
 ---
 
